@@ -1,0 +1,23 @@
+.category_delete  {
+  display: block;
+  margin-right: -12px;
+  overflow: hidden;
+}
+
+.category_delete a {
+  background:#F0F0E9;
+  color: #FFFFFF;
+  padding: 5px 7px;
+  font-size: 16px
+}
+
+.category_delete a:hover {
+  background:#6666FF
+}
+
+a.non-textdecoration{
+    color: red;
+    text-decoration: none;
+}
+
+
